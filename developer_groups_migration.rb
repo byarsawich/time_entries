@@ -1,4 +1,4 @@
-require 'activerecord'
+require 'active_record'
 
 class DevelopersGroupsMigration < ActiveRecord::Migration
   def change

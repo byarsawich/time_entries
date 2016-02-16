@@ -1,4 +1,4 @@
-require 'activerecord'
+require 'active_record'
 
 class CommentsMigration < ActiveRecord::Migration
   def change
